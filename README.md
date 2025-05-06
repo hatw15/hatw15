@@ -6,7 +6,7 @@ I am a **Deep Learning Researcher** specializing in **Surface defect detection**
 Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University**
 
 🔬 **Research Interests:**
-- Steel Surface Defect Detection
+- Surface Defect Detection
 - Computer Vision
 - Deep Learning
   
