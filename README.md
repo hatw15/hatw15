@@ -38,6 +38,11 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 
 ---
 
+## 🏆 Paper
+### Journal Articles
+- Ha, T., Hwang, C. & Jeong, J. CLIP-MDC: CLIP encoder based multimodal defect classification with synthetic anomaly generation for real-time surface defect detection. J Intell Manuf (2026). https://doi.org/10.1007/s10845-025-02773-4
+---
+
 ## 💡 Intellectual Property
 
 ### Program Registrations
