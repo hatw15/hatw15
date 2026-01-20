@@ -35,9 +35,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2025-09-30 | A DeNoising FPN With Transformer R-CNN for Tiny Object Detection                                      | [Link](https://www.youtube.com/watch?v=_vb7i4Hq7IY&t=1091s) |
 | 2025-10-01 | DQ-DETR: DETR with Dynamic Query for Tiny Object Detection                                            | [Link](https://www.youtube.com/watch?v=s30ScaJwxuI&t=989s) |
 | 2025-11-01 | Feature Information Driven Position Gaussian Distribution Estimation for Tiny Object Detection        | [Link](https://www.youtube.com/watch?v=R9HTRzFGMAc) |
-| 2025-09-30 | LEAF-YOLO: Lightweight Edge-Real-Time Small Object Detection on Aerial Imagery                        | [Link](https://www.youtube.com/watch?v=An7ho1XQfNE&t=381s) |
-| 2025-10-01 | GhostNetv2: Enhance cheap operation with long-range attention                                         | [Link](https://www.youtube.com/watch?v=UxNifuSqzVw&t=1s) |
-| 2025-11-01 | LightUAV-YOLO: a lightweight object detection model for unmanned aerial vehicle image                 | [Link](https://www.youtube.com/watch?v=XQK_BRc-H58) |
+| 2025-12-01 | LEAF-YOLO: Lightweight Edge-Real-Time Small Object Detection on Aerial Imagery                        | [Link](https://www.youtube.com/watch?v=An7ho1XQfNE&t=381s) |
+| 2026-01-01 | GhostNetv2: Enhance cheap operation with long-range attention                                         | [Link](https://www.youtube.com/watch?v=UxNifuSqzVw&t=1s) |
+| 2026-01-15 | LightUAV-YOLO: a lightweight object detection model for unmanned aerial vehicle image                 | [Link](https://www.youtube.com/watch?v=XQK_BRc-H58) |
 ---
 
 ## 🏆 Paper
