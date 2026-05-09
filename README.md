@@ -42,7 +42,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2026-02-15 | Precision and speed LSOD-YOLO for lightweight small object detection                                  | [Link](https://www.youtube.com/watch?v=OYbCJ_9P0Fs&t=1s) |
 | 2026-03-01 | AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection                  | [Link](https://www.youtube.com/watch?v=PxgLoGHlB7Q&t=876s) |
 | 2026-04-01 | No label left behind: a unified surface defect detection model for all supervision regimes            | [Link](https://www.youtube.com/watch?v=HDh3b-tRprs&t=635s) |
-| 2026-01-15 | GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection               | [Link](https://www.youtube.com/watch?v=qniIXA8BEns) |
+| 2026-05-01 | GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection              | [Link](https://www.youtube.com/watch?v=qniIXA8BEns) |
 ---
 
 ## 🏆 Paper
