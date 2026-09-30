@@ -6,9 +6,9 @@ I am a **Deep Learning Researcher** specializing in **Surface defect detection**
 Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University**
 
 🔬 **Research Interests:**
+- Computer Vision
 - Surface Defect Detection
 - Small Object Detection
-- Computer Vision
 
 ---
 
@@ -43,6 +43,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 | 2026-03-01 | AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection                  | [Link](https://www.youtube.com/watch?v=PxgLoGHlB7Q&t=876s) |
 | 2026-04-01 | No label left behind: a unified surface defect detection model for all supervision regimes            | [Link](https://www.youtube.com/watch?v=HDh3b-tRprs&t=635s) |
 | 2026-05-01 | GlocalCLIP: Object-agnostic Global-Local Prompt Learning for Zero-shot Anomaly Detection              | [Link](https://www.youtube.com/watch?v=qniIXA8BEns) |
+| 2026-06-01 | AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation                              | [Link](https://youtu.be/SP6P-LqswBI?si=9QjGpACN6b2-irb-) |
+| 2026-07-01 | Visual-Language Prompt Tuning with Knowledge-guided Context Optimization                              | [Link](https://youtu.be/cTKCiZ0YqjM?si=Gq5urDROjVHpSmnH) |
+| 2026-09-01 | Domain Adaptation via Prompt Learning                                                                 | [Link](https://youtu.be/XYD-p65qRI8?si=2zTYhhPi0xoWEKnS) |
 ---
 
 ## 🏆 Paper
@@ -67,6 +70,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan 
 - 인공지능 기반 이상 탐지 및 복구 가능성 예측 장치 및 방법 (출원 번호: 10-2025-0095368/ 25.07.15)
 - 텍스트-이미지 멀티모달 기반 이상 탐지용 결함 분류 장치 및 방법 (출원 번호: 10-2025-0097231/ 25.07.18)
 
+### Awards
+- 성균관대학교 스마트팩토리융합학과 우수 연구, 우수상 (2026)
 ---
 
 ## 🔧 Skills
